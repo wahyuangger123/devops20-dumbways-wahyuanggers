@@ -1,4 +1,4 @@
-udo apt install nginx
+sudo apt install nginx
 [sudo] password for angger: 
 Reading package lists... Done
 Building dependency tree... Done
@@ -21,3 +21,4 @@ npm is already the newest version (8.5.1~ds-1).
 0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
 
 nvm --version
+
